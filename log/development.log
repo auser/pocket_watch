@@ -1,0 +1,113 @@
+I, [2009-05-24T18:18:44.599973 #11752]  INFO -- : Running signal traps for INT
+I, [2009-05-24T18:18:44.600144 #11752]  INFO -- : Going down
+I, [2009-05-24T18:18:45.670849 #11778]  INFO -- : Setting up trap for USR1
+I, [2009-05-24T18:18:45.670955 #11778]  INFO -- : Setting up trap for USR2
+I, [2009-05-24T18:18:45.671013 #11778]  INFO -- : DaemonKit up and running in development mode
+I, [2009-05-24T18:18:45.671053 #11778]  INFO -- : Setting up trap for INT
+I, [2009-05-24T18:18:45.671108 #11778]  INFO -- : Setting up trap for TERM
+I, [2009-05-24T18:19:43.997339 #11797]  INFO -- : Setting up trap for USR1
+I, [2009-05-24T18:19:43.997440 #11797]  INFO -- : Setting up trap for USR2
+I, [2009-05-24T18:19:43.997497 #11797]  INFO -- : DaemonKit up and running in development mode
+I, [2009-05-24T18:19:43.997537 #11797]  INFO -- : Setting up trap for INT
+I, [2009-05-24T18:19:43.997592 #11797]  INFO -- : Setting up trap for TERM
+I, [2009-05-24T18:20:00.787788 #11797]  INFO -- : Running signal traps for INT
+I, [2009-05-24T18:20:00.787915 #11797]  INFO -- : Going down
+I, [2009-05-24T18:20:01.833875 #11797]  INFO -- : Running signal traps for INT
+I, [2009-05-24T18:20:01.833981 #11797]  INFO -- : Going down
+I, [2009-05-24T18:20:01.985817 #11797]  INFO -- : Running signal traps for INT
+I, [2009-05-24T18:20:01.985926 #11797]  INFO -- : Going down
+I, [2009-05-24T18:20:02.146233 #11797]  INFO -- : Running signal traps for INT
+I, [2009-05-24T18:20:02.146368 #11797]  INFO -- : Going down
+I, [2009-05-24T18:20:02.314179 #11797]  INFO -- : Running signal traps for INT
+I, [2009-05-24T18:20:02.314307 #11797]  INFO -- : Going down
+I, [2009-05-24T18:20:02.497950 #11797]  INFO -- : Running signal traps for INT
+I, [2009-05-24T18:20:02.498064 #11797]  INFO -- : Going down
+I, [2009-05-24T18:20:02.998122 #11797]  INFO -- : Running signal traps for INT
+I, [2009-05-24T18:20:02.998298 #11797]  INFO -- : Going down
+I, [2009-05-24T18:20:03.081916 #11797]  INFO -- : Running signal traps for INT
+I, [2009-05-24T18:20:03.082025 #11797]  INFO -- : Going down
+I, [2009-05-24T18:20:08.891109 #11797]  INFO -- : Running signal traps for TERM
+W, [2009-05-24T18:20:08.891234 #11797]  WARN -- : Shutting down
+I, [2009-05-24T18:20:10.505822 #11820]  INFO -- : Setting up trap for USR1
+I, [2009-05-24T18:20:10.505920 #11820]  INFO -- : Setting up trap for USR2
+I, [2009-05-24T18:20:10.505977 #11820]  INFO -- : DaemonKit up and running in development mode
+I, [2009-05-24T18:20:10.506017 #11820]  INFO -- : Setting up trap for INT
+I, [2009-05-24T18:20:10.506071 #11820]  INFO -- : Setting up trap for TERM
+I, [2009-05-24T18:20:13.218798 #11820]  INFO -- : Running signal traps for INT
+I, [2009-05-24T18:20:13.218941 #11820]  INFO -- : Going down
+I, [2009-05-24T18:20:27.742265 #11835]  INFO -- : Setting up trap for USR1
+I, [2009-05-24T18:20:27.742369 #11835]  INFO -- : Setting up trap for USR2
+I, [2009-05-24T18:20:27.742426 #11835]  INFO -- : DaemonKit up and running in development mode
+I, [2009-05-24T18:20:27.742467 #11835]  INFO -- : Setting up trap for INT
+I, [2009-05-24T18:20:27.742521 #11835]  INFO -- : Setting up trap for TERM
+I, [2009-05-24T18:20:40.383231 #11835]  INFO -- : Running signal traps for INT
+I, [2009-05-24T18:20:40.383361 #11835]  INFO -- : Going down
+I, [2009-05-24T18:20:54.229351 #11858]  INFO -- : Setting up trap for USR1
+I, [2009-05-24T18:20:54.229453 #11858]  INFO -- : Setting up trap for USR2
+I, [2009-05-24T18:20:54.229510 #11858]  INFO -- : DaemonKit up and running in development mode
+I, [2009-05-24T18:20:54.229551 #11858]  INFO -- : Setting up trap for INT
+I, [2009-05-24T18:20:54.229605 #11858]  INFO -- : Setting up trap for TERM
+I, [2009-05-24T18:21:12.110047 #11858]  INFO -- : Running signal traps for INT
+I, [2009-05-24T18:21:12.110195 #11858]  INFO -- : Going down
+I, [2009-05-24T18:21:13.158276 #11894]  INFO -- : Setting up trap for USR1
+I, [2009-05-24T18:21:13.158379 #11894]  INFO -- : Setting up trap for USR2
+I, [2009-05-24T18:21:13.158436 #11894]  INFO -- : DaemonKit up and running in development mode
+I, [2009-05-24T18:21:13.158477 #11894]  INFO -- : Setting up trap for INT
+I, [2009-05-24T18:21:13.158552 #11894]  INFO -- : Setting up trap for TERM
+I, [2009-05-24T18:21:58.931086 #11894]  INFO -- : Running signal traps for INT
+I, [2009-05-24T18:21:58.931226 #11894]  INFO -- : Going down
+I, [2009-05-24T18:22:00.076269 #11924]  INFO -- : Setting up trap for USR1
+I, [2009-05-24T18:22:00.076375 #11924]  INFO -- : Setting up trap for USR2
+I, [2009-05-24T18:22:00.076433 #11924]  INFO -- : DaemonKit up and running in development mode
+I, [2009-05-24T18:22:00.076474 #11924]  INFO -- : Setting up trap for INT
+I, [2009-05-24T18:22:00.076530 #11924]  INFO -- : Setting up trap for TERM
+I, [2009-05-24T18:26:23.334379 #12009]  INFO -- : Setting up trap for USR1
+I, [2009-05-24T18:26:23.334538 #12009]  INFO -- : Setting up trap for USR2
+I, [2009-05-24T18:26:23.334621 #12009]  INFO -- : DaemonKit up and running in development mode
+I, [2009-05-24T18:26:23.334685 #12009]  INFO -- : Setting up trap for INT
+I, [2009-05-24T18:26:23.334762 #12009]  INFO -- : Setting up trap for TERM
+I, [2009-05-24T18:26:41.475461 #12014]  INFO -- : Setting up trap for USR1
+I, [2009-05-24T18:26:41.475576 #12014]  INFO -- : Setting up trap for USR2
+I, [2009-05-24T18:26:41.475632 #12014]  INFO -- : DaemonKit up and running in development mode
+I, [2009-05-24T18:26:41.475675 #12014]  INFO -- : Setting up trap for INT
+I, [2009-05-24T18:26:41.475727 #12014]  INFO -- : Setting up trap for TERM
+I, [2009-05-24T18:26:45.927757 #12019]  INFO -- : Setting up trap for USR1
+I, [2009-05-24T18:26:45.927873 #12019]  INFO -- : Setting up trap for USR2
+I, [2009-05-24T18:26:45.927929 #12019]  INFO -- : DaemonKit up and running in development mode
+I, [2009-05-24T18:26:45.927972 #12019]  INFO -- : Setting up trap for INT
+I, [2009-05-24T18:26:45.928024 #12019]  INFO -- : Setting up trap for TERM
+I, [2009-05-24T18:27:00.818437 #12028]  INFO -- : Setting up trap for USR1
+I, [2009-05-24T18:27:00.818557 #12028]  INFO -- : Setting up trap for USR2
+I, [2009-05-24T18:27:00.818612 #12028]  INFO -- : DaemonKit up and running in development mode
+I, [2009-05-24T18:27:00.818656 #12028]  INFO -- : Setting up trap for INT
+I, [2009-05-24T18:27:00.818706 #12028]  INFO -- : Setting up trap for TERM
+I, [2009-05-24T18:31:54.060270 #11924]  INFO -- : Running signal traps for INT
+I, [2009-05-24T18:31:54.060420 #11924]  INFO -- : Going down
+I, [2009-05-24T18:36:51.375530 #12305]  INFO -- : Setting up trap for USR1
+I, [2009-05-24T18:36:51.375652 #12305]  INFO -- : Setting up trap for USR2
+I, [2009-05-24T18:36:51.375724 #12305]  INFO -- : DaemonKit up and running in development mode
+I, [2009-05-24T18:36:51.375777 #12305]  INFO -- : Setting up trap for INT
+I, [2009-05-24T18:36:51.375845 #12305]  INFO -- : Setting up trap for TERM
+I, [2009-05-24T18:37:04.769729 #12305]  INFO -- : Running signal traps for INT
+I, [2009-05-24T18:37:04.769858 #12305]  INFO -- : Going down
+I, [2009-05-24T18:37:05.916526 #12343]  INFO -- : Setting up trap for USR1
+I, [2009-05-24T18:37:05.916666 #12343]  INFO -- : Setting up trap for USR2
+I, [2009-05-24T18:37:05.916724 #12343]  INFO -- : DaemonKit up and running in development mode
+I, [2009-05-24T18:37:05.916765 #12343]  INFO -- : Setting up trap for INT
+I, [2009-05-24T18:37:05.916820 #12343]  INFO -- : Setting up trap for TERM
+I, [2009-05-24T18:42:53.956404 #12343]  INFO -- : Running signal traps for INT
+I, [2009-05-24T18:42:53.956544 #12343]  INFO -- : Going down
+I, [2009-05-24T18:42:55.417336 #12731]  INFO -- : Setting up trap for USR1
+I, [2009-05-24T18:42:55.417439 #12731]  INFO -- : Setting up trap for USR2
+I, [2009-05-24T18:42:55.417497 #12731]  INFO -- : DaemonKit up and running in development mode
+I, [2009-05-24T18:42:55.417538 #12731]  INFO -- : Setting up trap for INT
+I, [2009-05-24T18:42:55.417615 #12731]  INFO -- : Setting up trap for TERM
+I, [2009-05-24T18:47:10.203514 #12731]  INFO -- : Running signal traps for INT
+I, [2009-05-24T18:47:10.203660 #12731]  INFO -- : Going down
+I, [2009-05-24T18:47:11.496554 #13068]  INFO -- : Setting up trap for USR1
+I, [2009-05-24T18:47:11.496662 #13068]  INFO -- : Setting up trap for USR2
+I, [2009-05-24T18:47:11.496726 #13068]  INFO -- : DaemonKit up and running in development mode
+I, [2009-05-24T18:47:11.496798 #13068]  INFO -- : Setting up trap for INT
+I, [2009-05-24T18:47:11.496860 #13068]  INFO -- : Setting up trap for TERM
+I, [2009-05-24T18:51:25.570809 #13068]  INFO -- : Running signal traps for INT
+I, [2009-05-24T18:51:25.570938 #13068]  INFO -- : Going down
