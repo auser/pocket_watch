@@ -32,7 +32,6 @@ class HashProxy
   end
   def hsh;@hsh ||= {};end
   
-  # private
   def store
     marshal("/tmp/cache/.pocketwatch", proxy_obj)
   end

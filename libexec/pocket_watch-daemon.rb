@@ -8,25 +8,13 @@ DaemonKit::Application.running! do |config|
   config.trap( 'INT' ) do
     # do something clever
     DaemonKit.logger.info 'Going down'
-    PocketWatch::Server.shutdown
+    Carrot.stop
     exit
   end
   
 end
 
-def start_it(nth=0, retry_times=3)
-  # Sample loop to show process
-  exit(0) if @terminated
-  raise StandardError.new("Could not start PocketWatch. Check log for details") if nth >= retry_times
-  begin
-    DaemonKit.logger.info "Starting pocket watch on #{PocketWatch.port}"
-    PocketWatch::Server.run(PocketWatch.storage)
-  rescue Exception => e
-    # Try again    
-    DaemonKit.logger.info "Error starting PocketWatch: #{e}\n\n\t\tTrying again"
-    start_it(nth + 1)
-  end
+# This loop just ensures the daemon keeps running
+loop do
+  sleep(60)
 end
-
-# start_it
-PocketWatch::Server.run(PocketWatch.storage, ARGV.shift)
