@@ -1,5 +1,5 @@
 == Pocket Watch
 
-HashTable.put(:name, "name")
+  HashTable.put(:name, "name")
 
-puts HashTable.get(:name) # => "name"
+  puts HashTable.get(:name) # => "name"
